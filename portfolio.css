@@ -1,0 +1,15 @@
+body {
+    background-image: linear-gradient(to right, #DECBA4, #3E5151);
+}
+#name1
+{
+    padding-left: 10px;
+    border: solid;
+    height: 45px;
+    width: 190px;
+    border-radius: 20px;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    translate: 520px;
+    
+}
